@@ -142,7 +142,7 @@ This project is licensed under the MIT License.
 
 **Your Name**
 
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+GitHub: [https://github.com/DoleswarVajrala](https://github.com/DoleswarVajrala)
 
 ---
 
