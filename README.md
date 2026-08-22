@@ -9,11 +9,11 @@ For your project (**nexmore-financial.vercel.app**), a professional README could
 
 ---
 
-# 📊 NexMore Financial
+# 📊 NexMove Financial
 
 A modern financial management web application that helps users track finances, visualize spending, and manage their financial data through an intuitive dashboard.
 
-**Live Demo:** [https://nexmore-financial.vercel.app](https://nexmore-financial.vercel.app)
+**Live Demo:** [https://nexmove-financial.vercel.app](https://nexmove-financial.vercel.app)
 
 ---
 
